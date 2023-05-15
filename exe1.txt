@@ -1,0 +1,11 @@
+LDA	in1
+ADD	in2
+STA	t1
+LDA	t1
+ADD	in3
+STA	t2
+LDA	t2
+SUB	in4
+STA	t3
+LDA	t3
+STA	out

@@ -1,0 +1,4 @@
+Compiler Design Lab 
+int a = 1
+Write a Program to find number of lines , words , characters in a text
+int abc = nikhitha
